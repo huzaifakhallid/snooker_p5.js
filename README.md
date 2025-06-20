@@ -42,11 +42,11 @@ To run this project on your local machine:
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/YourUsername/YourRepositoryName.git
+    git clone https://github.com/huzaifakhallid/snooker_p5.js.git
     ```
 2.  **Navigate to the directory:**
     ```sh
-    cd YourRepositoryName
+    cd snooker_p5.js
     ```
 3.  **Run a local server:**
     Open the `index.html` file using a live server extension (like "Live Server" in VS Code). This is necessary to avoid browser security (CORS) errors when loading the sound files.
