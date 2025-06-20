@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents scrollbars */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #222; /* Dark background */
+}
+
+canvas {
+    display: block;
+}
